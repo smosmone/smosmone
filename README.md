@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @smosmone
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-smosmone/smosmone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Simone
+- 👀 I’m interested in designing for functionality
+- 🌱 I’m currently learning full-stack engineering via Codecademy's "Full-Stack Engineer" career path course
+- 💞️ I’m looking to collaborate on anything that I can learn from that will sharpen my skills and add value to my portfolio
